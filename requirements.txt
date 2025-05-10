@@ -1,0 +1,8 @@
+pandas~=2.2.3
+requests~=2.32.3
+psutil~=6.1.1
+opencv-python~=4.11.0.86
+django-scheduler~=0.10.1
+yfinance~=0.2.59
+numpy~=2.2.1
+sqlalchemy~=2.0.40
